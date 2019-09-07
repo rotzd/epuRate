@@ -1,13 +1,12 @@
 ---
-title: "A clean and uncluttered template"
-author: "[Yan Holtz](https://github.com/holtzy)"
+title: ""
+author: "Dillon R."
 date: "`r format(Sys.time(), '%d %B %Y')`"
-mail: "yan.holtz.data@gmail.com"
-linkedin: "yan-holtz-2477534a"
-twitter: "r_graph_gallery"
-github: "holtzy"
-home: "www.yan-holtz.com"
-# !!! You need to provide a logo image here !!! Or just delete the field for no logo
+mail: ""
+linkedin: ""
+twitter: ""
+github: ""
+home: ""
 logo: "logo_gallery.png"
 output:
   epuRate::epurate:
@@ -206,9 +205,3 @@ p
 ```
 
 
-
-# Conclusion
-***
-Read more about this template [here](https://github.com/holtzy/epuRate).
-
-Learn how to custom your R Markdown document [here](https://holtzy.github.io/Pimp-my-rmd/).
