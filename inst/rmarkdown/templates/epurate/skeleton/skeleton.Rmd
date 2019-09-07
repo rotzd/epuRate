@@ -13,12 +13,16 @@ output:
     toc: TRUE
     number_sections: FALSE
     code_folding: "hide"
+    
+#library(devtools)
+#install_github("rotzd/epuRate")
+#library(epuRate)
 ---
 
 
 <br><br>
 
-> Let's start with a short introduction. Explain briefly what this document is going to talk about. May be add a [useful link](https://github.com/holtzy/epuRate) relative to this project.
+> Scope of Report - Perhaps some backstory
 
 
 # Get the data
