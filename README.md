@@ -28,7 +28,7 @@ Using it
 - Install the R package:
 ```
 library(devtools)
-install_github("holtzy/epuRate")
+install_github("rotzd/epuRate")
 library(epuRate)
 ```
 - Open a new rmd file in Rstudio: File -> New File -> R Markdown -> From Template -> epuRate.
